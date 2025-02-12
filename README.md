@@ -14,7 +14,7 @@ Analyzing sentiment trends for Guardian Tales
 - scikit-learn==1.2.2
 - wordcloud==1.8.2.2
 
-#Clone Repository
+# Clone Repository
 ```bash
 git clone https://github.com/willkur/Analisis_Sentimen
 cd Analisis_Sentimen
