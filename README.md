@@ -1,7 +1,7 @@
 # Proyek Analisis Sentimen
 ## Overview
 
-Analyzing sentiment trends for Guardian Tales
+This project aims to analyze changes in sentiment towards the game Guardian Tales based on user reviews and data from the Google Playstore.
 
 # Requirements 
 
@@ -18,5 +18,13 @@ Analyzing sentiment trends for Guardian Tales
 ```bash
 git clone https://github.com/willkur/Analisis_Sentimen
 cd Analisis_Sentimen
-pip3 install -r requirements.txt
+```
+
+# How to Run on Google Colab
+```bash
+1. Open Google Colab
+2. Select the GitHub option and search for this repository by entering the URL or username.
+3. Open the available notebook or upload the Python script.
+4. Run the cells one by one to execute the analysis.
+
 ```
